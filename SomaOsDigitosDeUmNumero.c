@@ -23,6 +23,7 @@ int somarDigitos(int num)
     return soma;
 }
 
+
 //
 // Testes
 //
